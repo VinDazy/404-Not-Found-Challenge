@@ -65,7 +65,7 @@ footer{
 	margin-right: 300px ;
     
 }
-@media screen and(max-width:1024px) {
+@media screen and (max-width:1024px) {
     .content-container{
         flex-direction: column;
         justify-content: center;

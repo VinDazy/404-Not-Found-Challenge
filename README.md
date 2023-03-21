@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://devchallenges.io/paths/responsive-web-developer/solutions}">
+    <a href="https://devchallenges.io/paths/responsive-web-developer/solutions">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://vindazy.github.io/404-Not-Found-Challenge/}">
+    <a href="https://vindazy.github.io/404-Not-Found-Challenge">
       Solution
     </a>
     <span> | </span>

@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 Not Found Page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchalxlenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,22 +36,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
+![screenshot](demo.png)
+  
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  I have attached above a screenshot of the project website 
 - What was your experience?
+  My experience was self explanatory , i watched youtube tutorials and read the course provided by our tutor 
 - What have you learned/improved?
+  My understanding of CSS and HTML basics 
 - Your wisdom? :)
+  Never hesitate to take the first step 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -63,13 +66,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
+- [Project manager/tutor : Raed Bahri ](https://www.linkedin.com/in/raed-bahri/)
 ## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@VinDazy](https://{https://github.com/VinDazy})
+- LinkedIn [@khalyl-ebdelli](https://{https://www.linkedin.com/in/khalyl-ebdelli-3733ab1ba/})

@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://vindazy.github.io/404-Not-Found-Challenge/}">
       Solution
     </a>
     <span> | </span>
